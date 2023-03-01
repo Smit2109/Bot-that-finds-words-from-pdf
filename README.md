@@ -3,3 +3,4 @@ This bot is using informations from several pdfs, find the required word and the
 Program is realized in QT Creator
 Program is in romanian language, but can be easly traduced and it's based on courses from an university teacher
 I couldn't upload entire project because is too big
+Interface is realized using QT creator interface, based on XML code
